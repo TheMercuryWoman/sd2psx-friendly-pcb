@@ -1,1 +1,1 @@
-as of right now its based on rp2040 zero waveshare, all credits goes to moahdib from bitbuild and the sd2psx team
+as of right now its based on rp2040 zero waveshare, all credits goes to moahdib from bitbuild and the sd2psx team. I will plan on to make a pcb based on for rp2040 waveshare and the normal pico. Also the psram will be used in here will be for adafruit 4766 since I couldnt find the other recommended ones and there were some confirmation that it works with sd2psx
