@@ -9,3 +9,4 @@ The hardware is based on :
 - 3.3V Micro SD card reader as pictured
 
 - Should have full functionality as commercially available sd2psx memcards.
+- Sidenot: Do not order any pcbs unless I made the gerbers avaliable, it still at prototype stage and I have to check if the 4677 adafruit psrams works
