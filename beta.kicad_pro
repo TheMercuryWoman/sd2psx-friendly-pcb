@@ -58,7 +58,60 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "annular_width|33700000|102200000|e74d876e-b995-4b56-97c6-c8af7e9887b7|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "annular_width|33700000|78100000|857844a9-6b73-4a18-a76b-6b68eee0bacd|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "annular_width|55800000|102200000|b5a87645-cd8a-4341-8054-b57b68ad0613|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "annular_width|55900000|78100000|7a7fc2d8-f932-42b8-99ce-883baa75c78e|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "copper_edge_clearance|61900000|56750000|dcefaaa9-936c-4eb4-b48e-6fbf48b6620b|fee868e9-92b0-460c-9648-45046d92a892",
+          ""
+        ],
+        [
+          "copper_edge_clearance|66200000|49450000|115a28e4-fa14-42aa-a784-1c166d43fd36|14fe5206-50ee-4c59-ac91-f22b5fc6e28d",
+          ""
+        ],
+        [
+          "copper_edge_clearance|68500000|49450000|115a28e4-fa14-42aa-a784-1c166d43fd36|e00d4901-b4e8-4d31-81bd-7068a574f72c",
+          ""
+        ],
+        [
+          "copper_edge_clearance|70800000|49450000|115a28e4-fa14-42aa-a784-1c166d43fd36|be14ba9e-9df2-426c-a5aa-5d003e2453fb",
+          ""
+        ],
+        [
+          "copper_edge_clearance|71500000|53100000|52f4d236-496e-4ccd-81dc-c08e76d636ad|ea2f9747-63c4-4877-be62-fd69c92a3ab3",
+          ""
+        ],
+        [
+          "copper_edge_clearance|82515136|50125310|229c1453-e91e-47ca-9912-e2576ce819c5|570a9e11-fb12-4f98-8727-252848cd2430",
+          ""
+        ],
+        [
+          "lib_footprint_issues|40950000|70000000|4811f2d4-a6a0-4978-8b2a-c1a38c342346|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_issues|47500000|70000000|990fbf89-6c10-4b91-aa98-3f061fc3e445|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_issues|70350000|53100000|8ca5e56a-632a-4b3b-8469-21601cdb236b|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -467,7 +520,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "test.kicad_pro",
+    "filename": "beta.kicad_pro",
     "version": 3
   },
   "net_settings": {
